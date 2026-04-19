@@ -147,7 +147,7 @@ async function fetchGames() {
 /**
  * Use Claude to generate a week of challenges
  */
-async function generateChallenges(news, movies, tvShows, books, games) {
+async function generateChallenges(news, movies, tvShows, books) {
   const startDate = getNextMonday();
 
   const prompt = `You are generating daily challenges for a fun web app. Generate exactly 7 days of challenges starting from ${startDate}.
@@ -158,7 +158,7 @@ Each day needs 3 challenges:
 3. "Fill in the Blank" - a puzzle from pop culture with strategic blanking
 
 CRITICAL REQUIREMENTS FOR FILL-IN-THE-BLANK:
-- Use titles from the provided lists (movies, TV, books, games)
+- Use titles from the provided lists (movies, TV shows, books)
 - Prioritize LONGER titles (25-40 characters ideal)
 - Create strategic blanks - don't just remove vowels
 - Blank out significant portions to make it challenging
@@ -171,7 +171,6 @@ DATA:
 Movies: ${movies.join(', ')}
 TV Shows: ${tvShows.join(', ')}
 Books: ${books.join(', ')}
-Games: ${games.join(', ')}
 Recent news topics: ${news?.map(n => n.title).join('; ').slice(0, 500) || 'Use general current events'}
 
 Return ONLY a valid JSON array with this structure:
@@ -181,7 +180,7 @@ Return ONLY a valid JSON array with this structure:
     "teams": {"team1": "Option A", "team2": "Option B"},
     "hotTake": "Provocative statement",
     "puzzle": {
-      "category": "Movie|Book|Video Game|Quote",
+      "category": "Movie|Book|TV Show|Quote",
       "answer": "Full title",
       "puzzle": "Blanked version"
     }
@@ -261,21 +260,19 @@ async function main() {
   console.log('🚀 Starting challenge generation...\n');
 
   console.log('📡 Fetching data from APIs...');
-  const [news, movies, tvShows, books, games] = await Promise.all([
+  const [news, movies, tvShows, books] = await Promise.all([
     fetchNews(),
     fetchMovies(),
     fetchTVShows(),
-    fetchBooks(),
-    fetchGames()
+    fetchBooks()
   ]);
 
   console.log(`✓ News articles: ${news?.length || 0}`);
   console.log(`✓ Movies: ${movies.length}`);
   console.log(`✓ TV Shows: ${tvShows.length}`);
-  console.log(`✓ Books: ${books.length}`);
-  console.log(`✓ Games: ${games.length}\n`);
+  console.log(`✓ Books: ${books.length}\n`);
 
-  const challenges = await generateChallenges(news, movies, tvShows, books, games);
+  const challenges = await generateChallenges(news, movies, tvShows, books);
 
   console.log(`\n📝 Generated ${challenges.length} challenges`);
   console.log('Challenges:', JSON.stringify(challenges, null, 2));
