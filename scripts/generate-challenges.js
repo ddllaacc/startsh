@@ -148,7 +148,7 @@ async function fetchGames() {
  * Use Claude to generate a week of challenges
  */
 async function generateChallenges(news, movies, tvShows, books) {
-  const startDate = getNextMonday();
+  const startDate = getNextWeekStart();
 
   const prompt = `You are generating daily challenges for a fun web app. Generate exactly 7 days of challenges starting from ${startDate}.
 
@@ -209,20 +209,55 @@ Generate 7 days starting ${startDate}. Vary categories across days. Make it fun 
 }
 
 /**
- * Get next Monday's date
+ * Get the date after the last existing challenge
+ * Reads dailyData.ts to find the latest date and returns the next day
  */
-function getNextMonday() {
-  const today = new Date();
-  const dayOfWeek = today.getDay();
-  const daysUntilMonday = dayOfWeek === 0 ? 1 : (8 - dayOfWeek);
-  const nextMonday = new Date(today);
-  nextMonday.setDate(today.getDate() + daysUntilMonday);
+function getNextWeekStart() {
+  const dataFilePath = path.join(__dirname, '../src/utils/dailyData.ts');
+  const content = fs.readFileSync(dataFilePath, 'utf8');
 
-  const month = String(nextMonday.getMonth() + 1).padStart(2, '0');
-  const day = String(nextMonday.getDate()).padStart(2, '0');
-  const year = nextMonday.getFullYear();
+  // Extract all dates from the file
+  const dateRegex = /date: '(\d{2}\/\d{2}\/\d{4})'/g;
+  const dates = [];
+  let match;
 
-  return `${month}/${day}/${year}`;
+  while ((match = dateRegex.exec(content)) !== null) {
+    dates.push(match[1]);
+  }
+
+  if (dates.length === 0) {
+    // No existing dates, start from today
+    const today = new Date();
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const day = String(today.getDate()).padStart(2, '0');
+    const year = today.getFullYear();
+    return `${month}/${day}/${year}`;
+  }
+
+  // Find the latest date
+  const latestDate = dates.reduce((latest, current) => {
+    const [latestMonth, latestDay, latestYear] = latest.split('/').map(Number);
+    const [currentMonth, currentDay, currentYear] = current.split('/').map(Number);
+
+    const latestMs = new Date(latestYear, latestMonth - 1, latestDay).getTime();
+    const currentMs = new Date(currentYear, currentMonth - 1, currentDay).getTime();
+
+    return currentMs > latestMs ? current : latest;
+  });
+
+  // Add 1 day to the latest date
+  const [month, day, year] = latestDate.split('/').map(Number);
+  const nextDay = new Date(year, month - 1, day);
+  nextDay.setDate(nextDay.getDate() + 1);
+
+  const nextMonth = String(nextDay.getMonth() + 1).padStart(2, '0');
+  const nextDayStr = String(nextDay.getDate()).padStart(2, '0');
+  const nextYear = nextDay.getFullYear();
+
+  console.log(`📅 Last challenge date: ${latestDate}`);
+  console.log(`📅 Generating challenges starting: ${nextMonth}/${nextDayStr}/${nextYear}`);
+
+  return `${nextMonth}/${nextDayStr}/${nextYear}`;
 }
 
 /**
