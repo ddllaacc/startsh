@@ -121,6 +121,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '04/17/2026', teams: { team1: 'Democracy', team2: 'Monarchy' }, hotTake: 'Democracy is too slow to actually work', puzzle: { category: 'Movie', answer: 'The Grand Budapest Hotel', puzzle: '--- Gr-nd B-d-p-st H-t-l' } },
   { date: '04/18/2026', teams: { team1: 'Chili with Beans', team2: 'No Beans' }, hotTake: 'Beans ruin everything they touch', puzzle: { category: 'Movie', answer: 'Knives Out', puzzle: 'Kn-v-s O-t' } },
   { date: '04/19/2026', teams: { team1: 'Raisins', team2: 'No Raisins' }, hotTake: 'Raisins in cookies are a betrayal', puzzle: { category: 'Movie', answer: 'Whiplash', puzzle: 'Wh-pl-sh' } },
+,
+  { date: '04/20/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Pineapple on pizza is actually the correct way to eat pizza', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '04/21/2026', teams: { team1: 'Team Coffee', team2: 'Team Tea' }, hotTake: 'Working from home has made people worse at their jobs', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c------d' } },
+  { date: '04/22/2026', teams: { team1: 'Crunchy Peanut Butter', team2: 'Smooth Peanut Butter' }, hotTake: 'Earth Day is just guilt-tripping with better branding', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A--z--- R---' } },
+  { date: '04/23/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Tattoos are basically just expensive regrets you paid for in advance', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '04/24/2026', teams: { team1: 'Sneakers', team2: 'Sandals' }, hotTake: 'Reality TV competitions produce better talent than traditional record labels', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } },
+  { date: '04/25/2026', teams: { team1: 'Mountains', team2: 'Beach' }, hotTake: 'Every movie longer than two hours should be split into two films', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---e-' } },
+  { date: '04/26/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Professional athletes are paid too much while teachers are paid too little and nobody actually does anything about it', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -- I-----e-t' } }
 ];
 
 /**
