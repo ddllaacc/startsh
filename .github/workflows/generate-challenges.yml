@@ -1,0 +1,42 @@
+name: Generate Weekly Challenges
+
+on:
+  schedule:
+    # Run every Sunday at 10 AM UTC
+    - cron: '0 10 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate challenges
+        run: npm run generate
+        env:
+          CURRENTS_API_KEY: ${{ secrets.CURRENTS_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+          RAWG_API_KEY: ${{ secrets.RAWG_API_KEY }}
+          NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add src/utils/dailyData.ts
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎲 Add challenges for week of $(date +%Y-%m-%d)" && git push)
