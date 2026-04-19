@@ -128,22 +128,6 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '04/24/2026', teams: { team1: 'Sneakers', team2: 'Sandals' }, hotTake: 'Reality TV competitions produce better talent than traditional record labels', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } },
   { date: '04/25/2026', teams: { team1: 'Mountains', team2: 'Beach' }, hotTake: 'Every movie longer than two hours should be split into two films', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---e-' } },
   { date: '04/26/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Professional athletes are paid too much while teachers are paid too little and nobody actually does anything about it', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -- I-----e-t' } }
-,
-  { date: '04/20/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Skipping the gym once always turns into skipping forever', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---- -r---f--' } },
-  { date: '04/21/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Sylvester Stallone was better as Rocky than Rambo', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M----i---r-' } },
-  { date: '04/22/2026', teams: { team1: 'Team Haaland', team2: 'Team Arsenal' }, hotTake: 'Manchester City would still dominate without Erling Haaland', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
-  { date: '04/23/2026', teams: { team1: 'Coffee', team2: 'Energy Drinks' }, hotTake: 'Tattoos are just expensive mistakes you have to live with', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
-  { date: '04/24/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'True Detective Season 1 ruined all other crime shows forever', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------i--' } },
-  { date: '04/25/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Breakfast is the most overrated meal of the day', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp--h-i---' } },
-  { date: '04/26/2026', teams: { team1: 'Team Vieira', team2: 'Team Arteta' }, hotTake: 'Sports managers get too much credit when teams win and too much blame when they lose', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-r--- -- I------s-' } }
-,
-  { date: '04/20/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Pineapple on pizza is actually the correct choice', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
-  { date: '04/21/2026', teams: { team1: 'Team Coffee', team2: 'Team Tea' }, hotTake: 'Skipping the gym once ruins your entire streak mentally', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c---g---d' } },
-  { date: '04/22/2026', teams: { team1: 'Haaland', team2: 'Salah' }, hotTake: 'Arsenal blew the title the moment they played for a draw against City', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A---i-- R---' } },
-  { date: '04/23/2026', teams: { team1: 'Tacos', team2: 'Burritos' }, hotTake: 'Working from home has made people worse at their jobs', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C----e- i- --- R--' } },
-  { date: '04/24/2026', teams: { team1: 'City Pop', team2: 'Country Living' }, hotTake: 'True Detective Season 1 is the greatest single season of TV ever made', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----n o- I------st' } },
-  { date: '04/25/2026', teams: { team1: 'Vampires', team2: 'Werewolves' }, hotTake: 'Sequels are almost always a cash grab that ruin the original', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---er' } },
-  { date: '04/26/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Social media has made sports fans insufferable', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- t-- D---' } }
 ];
 
 /**
