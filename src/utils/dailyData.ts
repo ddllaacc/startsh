@@ -137,6 +137,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '04/24/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'True Detective Season 1 ruined all other crime shows forever', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------i--' } },
   { date: '04/25/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Breakfast is the most overrated meal of the day', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp--h-i---' } },
   { date: '04/26/2026', teams: { team1: 'Team Vieira', team2: 'Team Arteta' }, hotTake: 'Sports managers get too much credit when teams win and too much blame when they lose', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-r--- -- I------s-' } }
+,
+  { date: '04/20/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Pineapple on pizza is actually the correct choice', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '04/21/2026', teams: { team1: 'Team Coffee', team2: 'Team Tea' }, hotTake: 'Skipping the gym once ruins your entire streak mentally', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c---g---d' } },
+  { date: '04/22/2026', teams: { team1: 'Haaland', team2: 'Salah' }, hotTake: 'Arsenal blew the title the moment they played for a draw against City', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A---i-- R---' } },
+  { date: '04/23/2026', teams: { team1: 'Tacos', team2: 'Burritos' }, hotTake: 'Working from home has made people worse at their jobs', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C----e- i- --- R--' } },
+  { date: '04/24/2026', teams: { team1: 'City Pop', team2: 'Country Living' }, hotTake: 'True Detective Season 1 is the greatest single season of TV ever made', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----n o- I------st' } },
+  { date: '04/25/2026', teams: { team1: 'Vampires', team2: 'Werewolves' }, hotTake: 'Sequels are almost always a cash grab that ruin the original', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---er' } },
+  { date: '04/26/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Social media has made sports fans insufferable', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- t-- D---' } }
 ];
 
 /**
