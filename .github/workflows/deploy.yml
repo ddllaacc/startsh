@@ -33,7 +33,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          VITE_BASE_PATH: ${{ vars.VITE_BASE_PATH || '/' }}
+          VITE_BASE_PATH: /startsh/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
