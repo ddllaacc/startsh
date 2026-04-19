@@ -129,6 +129,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '04/24/2026', teams: { team1: 'Sneakers', team2: 'Sandals' }, hotTake: 'Reality TV competitions produce better talent than traditional record labels', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } },
   { date: '04/25/2026', teams: { team1: 'Mountains', team2: 'Beach' }, hotTake: 'Every movie longer than two hours should be split into two films', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---e-' } },
   { date: '04/26/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Professional athletes are paid too much while teachers are paid too little and nobody actually does anything about it', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -- I-----e-t' } }
+,
+  { date: '04/20/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Skipping the gym once always turns into skipping forever', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---- -r---f--' } },
+  { date: '04/21/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Sylvester Stallone was better as Rocky than Rambo', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M----i---r-' } },
+  { date: '04/22/2026', teams: { team1: 'Team Haaland', team2: 'Team Arsenal' }, hotTake: 'Manchester City would still dominate without Erling Haaland', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '04/23/2026', teams: { team1: 'Coffee', team2: 'Energy Drinks' }, hotTake: 'Tattoos are just expensive mistakes you have to live with', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '04/24/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'True Detective Season 1 ruined all other crime shows forever', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------i--' } },
+  { date: '04/25/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Breakfast is the most overrated meal of the day', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp--h-i---' } },
+  { date: '04/26/2026', teams: { team1: 'Team Vieira', team2: 'Team Arteta' }, hotTake: 'Sports managers get too much credit when teams win and too much blame when they lose', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-r--- -- I------s-' } }
 ];
 
 /**
