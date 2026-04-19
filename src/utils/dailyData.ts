@@ -376,6 +376,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '12/29/2026', teams: { team1: 'Voice Acting', team2: 'Text Only' }, hotTake: 'Text-only games demand more imagination', puzzle: { category: 'Video Game', answer: 'Neon White', puzzle: 'N--n Wh-t-' } },
   { date: '12/30/2026', teams: { team1: 'New IP', team2: 'Beloved Franchise' }, hotTake: 'Beloved franchises are just comfort food for people afraid of change', puzzle: { category: 'Video Game', answer: 'Sifu', puzzle: 'S-f-' } },
   { date: '12/31/2026', teams: { team1: 'New Year', team2: 'Same Year' }, hotTake: "New Year's resolutions fail because January is the worst month for change", puzzle: { category: 'Quote', answer: 'It was the best of times, it was the worst of times', puzzle: '-t w-s th- b-st -f t-m-s, -t w-s th- w-rst -f t-m-s' } },
+,
+  { date: '04/20/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Owning a car in a city is a personality flaw', puzzle: { category: 'Video Game', answer: 'Warhammer 40,000: Dawn of War - Definitive Edition', puzzle: 'W------r 40,000: D--n -f W-r - D-f------- E-----n' } },
+  { date: '04/21/2026', teams: { team1: 'Vampires', team2: 'Werewolves' }, hotTake: 'Reboots are almost always better than the original', puzzle: { category: 'Video Game', answer: 'No Case Should Remain Unsolved', puzzle: '-- ---- ------ R--a-- U------d' } },
+  { date: '04/22/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Earth Day is just guilt-tripping with better branding', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D-----l' } },
+  { date: '04/23/2026', teams: { team1: 'Bruce Springsteen', team2: 'The Doors' }, hotTake: 'Live music is overrated and overpriced', puzzle: { category: 'Video Game', answer: 'The Witcher 3: Wild Hunt – Blood and Wine', puzzle: '--- W--c--r 3: W--- H--- – B---d --- W--e' } },
+  { date: '04/24/2026', teams: { team1: 'Ketchup on Eggs', team2: 'Hot Sauce on Eggs' }, hotTake: 'To Kill a Mockingbird should be retired from school curriculums', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--r -- --- R--' } },
+  { date: '04/25/2026', teams: { team1: 'Team Oscar Isaac', team2: 'Team Pedro Pascal' }, hotTake: 'Method acting is just an excuse for bad behavior on set', puzzle: { category: 'Video Game', answer: 'Cyberpunk 2077: Phantom Liberty', puzzle: 'C-----p--k 2077: P--n--- L-----y' } },
+  { date: '04/26/2026', teams: { team1: 'Ghosts are Real', team2: 'Aliens are Real' }, hotTake: 'Reality TV produces more genuine moments than scripted drama', puzzle: { category: 'Video Game', answer: 'Super Robot Taisen: Original Generation', puzzle: 'S---r R---t T----n: O-----al G-------on' } }
 ];
 
 /**
