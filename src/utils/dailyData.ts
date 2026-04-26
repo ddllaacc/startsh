@@ -128,6 +128,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '04/24/2026', teams: { team1: 'Sneakers', team2: 'Sandals' }, hotTake: 'Reality TV competitions produce better talent than traditional record labels', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } },
   { date: '04/25/2026', teams: { team1: 'Mountains', team2: 'Beach' }, hotTake: 'Every movie longer than two hours should be split into two films', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---e-' } },
   { date: '04/26/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Professional athletes are paid too much while teachers are paid too little and nobody actually does anything about it', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -- I-----e-t' } }
+,
+  { date: '04/27/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Pineapple on pizza is actually a culinary masterpiece', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '04/28/2026', teams: { team1: 'Team Coffee', team2: 'Team Tea' }, hotTake: 'Working from home has made people worse at their jobs', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-ck------d' } },
+  { date: '04/29/2026', teams: { team1: 'Aisle Seat', team2: 'Window Seat' }, hotTake: 'Tattoos are just expensive regrets you have to live with forever', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '04/30/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Breakfast is completely overrated and should be skipped', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C---c--- -- --- R--' } },
+  { date: '05/01/2026', teams: { team1: 'Summer', team2: 'Winter' }, hotTake: 'Social media has done more damage to society than any war', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-------t' } },
+  { date: '05/02/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Movie theaters are a dying experience and nobody should mourn them', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D---' } },
+  { date: '05/03/2026', teams: { team1: 'Night Owl', team2: 'Early Bird' }, hotTake: 'True crime podcasts have made everyone way too paranoid to function', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } }
 ];
 
 /**
