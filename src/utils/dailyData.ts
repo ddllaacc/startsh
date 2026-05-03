@@ -136,6 +136,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '05/01/2026', teams: { team1: 'Summer', team2: 'Winter' }, hotTake: 'Social media has done more damage to society than any war', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-------t' } },
   { date: '05/02/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Movie theaters are a dying experience and nobody should mourn them', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D---' } },
   { date: '05/03/2026', teams: { team1: 'Night Owl', team2: 'Early Bird' }, hotTake: 'True crime podcasts have made everyone way too paranoid to function', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } }
+,
+  { date: '05/04/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Soccer is the most boring sport to watch live', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '05/05/2026', teams: { team1: 'Tacos', team2: 'Burritos' }, hotTake: 'Tattoos are just expensive regrets you have to live with', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c------r-' } },
+  { date: '05/06/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Breakfast is the most overrated meal of the day', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '05/07/2026', teams: { team1: 'iOS', team2: 'Android' }, hotTake: 'Working from home has made people worse at their jobs', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--r -- --- R--' } },
+  { date: '05/08/2026', teams: { team1: 'Coffee', team2: 'Tea' }, hotTake: 'Transfer windows ruin the spirit of football loyalty', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-------v-' } },
+  { date: '05/09/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Streaming services have completely killed the magic of movie night', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e---i--r' } },
+  { date: '05/10/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salty Popcorn' }, hotTake: 'Professional athletes are paid way too much compared to teachers', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----- -- I------s-' } }
 ];
 
 /**
