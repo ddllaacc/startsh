@@ -144,6 +144,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '05/08/2026', teams: { team1: 'Coffee', team2: 'Tea' }, hotTake: 'Transfer windows ruin the spirit of football loyalty', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-------v-' } },
   { date: '05/09/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Streaming services have completely killed the magic of movie night', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e---i--r' } },
   { date: '05/10/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salty Popcorn' }, hotTake: 'Professional athletes are paid way too much compared to teachers', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----- -- I------s-' } }
+,
+  { date: '05/11/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'IPL is more entertaining than the World Cup', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y -r---f--' } },
+  { date: '05/12/2026', teams: { team1: 'Tom Hanks', team2: 'Tom Cruise' }, hotTake: 'Late night talk shows have run out of things to say', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M--k------d' } },
+  { date: '05/13/2026', teams: { team1: 'Punjab Kings', team2: 'Mumbai Indians' }, hotTake: 'Cricket is the most dramatic sport on the planet', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '05/14/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Tattoos are basically a personality replacement', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '05/15/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Boxing matches are decided before anyone throws a punch', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-----s-' } },
+  { date: '05/16/2026', teams: { team1: 'Staying In', team2: 'Going Out' }, hotTake: 'EU deregulation will do more harm than good', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp--h----r' } },
+  { date: '05/17/2026', teams: { team1: 'Gold Medals', team2: 'World Records' }, hotTake: 'Doing seva is more meaningful than any celebrity endorsement', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } }
 ];
 
 /**
