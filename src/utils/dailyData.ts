@@ -152,6 +152,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '05/15/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Boxing matches are decided before anyone throws a punch', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-----s-' } },
   { date: '05/16/2026', teams: { team1: 'Staying In', team2: 'Going Out' }, hotTake: 'EU deregulation will do more harm than good', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp--h----r' } },
   { date: '05/17/2026', teams: { team1: 'Gold Medals', team2: 'World Records' }, hotTake: 'Doing seva is more meaningful than any celebrity endorsement', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } }
+,
+  { date: '05/18/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Villains are always more interesting than heroes', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: '-e--y -r---f-l' } },
+  { date: '05/19/2026', teams: { team1: 'Coffee', team2: 'Tea' }, hotTake: 'Sequels are almost always a mistake', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- -i-- - -o--i--b--d' } },
+  { date: '05/20/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Spoilers actually make things more enjoyable', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- --a---g -a-e' } },
+  { date: '05/21/2026', teams: { team1: 'Texting', team2: 'Phone Calls' }, hotTake: 'Working from home has ruined ambition', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- -a--h-- i- --- -y-' } },
+  { date: '05/22/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'True crime content glorifies criminals', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: '-r-e -e-e--i-e' } },
+  { date: '05/23/2026', teams: { team1: 'Pizza', team2: 'Tacos' }, hotTake: 'Reboots and remakes are creatively bankrupt', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: '-e---n -- -n-e-e--' } },
+  { date: '05/24/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Every movie should be under 90 minutes', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: '--d-r --- -o-e' } }
 ];
 
 /**
