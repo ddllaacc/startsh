@@ -160,6 +160,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '05/22/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'True crime content glorifies criminals', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: '-r-e -e-e--i-e' } },
   { date: '05/23/2026', teams: { team1: 'Pizza', team2: 'Tacos' }, hotTake: 'Reboots and remakes are creatively bankrupt', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: '-e---n -- -n-e-e--' } },
   { date: '05/24/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Every movie should be under 90 minutes', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: '--d-r --- -o-e' } }
+,
+  { date: '05/25/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Memorial Day cookouts are overrated and everyone secretly knows it', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: '---n- -r---f--' } },
+  { date: '05/26/2026', teams: { team1: 'Team Coffee', team2: 'Team Tea' }, hotTake: 'Tattoos are just expensive regrets you have to live with forever', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- ---l - --c---g---d' } },
+  { date: '05/27/2026', teams: { team1: 'Flip Flops', team2: 'Sneakers' }, hotTake: 'Working from home has made people worse at their jobs', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- -------g R---' } },
+  { date: '05/28/2026', teams: { team1: 'Pineapple on Pizza', team2: 'No Pineapple Ever' }, hotTake: 'UFO footage should never have been declassified — ignorance was bliss', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '05/29/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'MMA is more legitimate than traditional professional wrestling ever was', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-t----t' } },
+  { date: '05/30/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salted Popcorn' }, hotTake: 'Sequels are almost always a cash grab that ruins the original', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-t-ct---' } },
+  { date: '05/31/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Social media has done more damage to society than any war ever could', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- t-- D---' } }
 ];
 
 /**
