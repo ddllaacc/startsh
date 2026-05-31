@@ -168,6 +168,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '05/29/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'MMA is more legitimate than traditional professional wrestling ever was', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-t----t' } },
   { date: '05/30/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salted Popcorn' }, hotTake: 'Sequels are almost always a cash grab that ruins the original', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-t-ct---' } },
   { date: '05/31/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Social media has done more damage to society than any war ever could', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- t-- D---' } }
+,
+  { date: '06/01/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Mondays get too much hate — Fridays are overrated', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: '-e--- -r---f--' } },
+  { date: '06/02/2026', teams: { team1: 'Tacos', team2: 'Burritos' }, hotTake: 'Sequels are almost always better than the original', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- -i-- - M--k------d' } },
+  { date: '06/03/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Tattoos make you more interesting as a person', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '06/04/2026', teams: { team1: 'Superhero Movies', team2: 'Horror Movies' }, hotTake: 'Pineapple on pizza is actually a top-tier topping', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '06/05/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Working from home has permanently ruined office culture', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I------st' } },
+  { date: '06/06/2026', teams: { team1: 'Team Ketchup', team2: 'Team Mustard' }, hotTake: 'Sports are more fun to play than to watch', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---n-----r' } },
+  { date: '06/07/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Social media has done more harm than good to society', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D--e--i--' } }
 ];
 
 /**
