@@ -176,6 +176,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '06/05/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Working from home has permanently ruined office culture', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I------st' } },
   { date: '06/06/2026', teams: { team1: 'Team Ketchup', team2: 'Team Mustard' }, hotTake: 'Sports are more fun to play than to watch', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---n-----r' } },
   { date: '06/07/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Social media has done more harm than good to society', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D--e--i--' } }
+,
+  { date: '06/08/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Concerts are overpriced and overrated compared to just listening at home', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d-ul' } },
+  { date: '06/09/2026', teams: { team1: 'Team Coffee', team2: 'Team Tea' }, hotTake: 'Baseball All-Star games are pointless exhibitions nobody actually cares about', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R--e' } },
+  { date: '06/10/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Plastic surgery and fillers should be talked about openly instead of kept secret', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K-ll - M--k------d' } },
+  { date: '06/11/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salted Popcorn' }, hotTake: 'WWE storylines are better written than most prestige TV dramas', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----n -- I------st' } },
+  { date: '06/12/2026', teams: { team1: 'Mountains', team2: 'Beach' }, hotTake: 'Goalkeepers are the most underappreciated players in all of football', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C----er -- --- R--' } },
+  { date: '06/13/2026', teams: { team1: 'Ninjas', team2: 'Pirates' }, hotTake: 'Politicians should never be allowed to interfere in sports leadership decisions', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--e D------ve' } },
+  { date: '06/14/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Women's sports leagues deserve equal prime-time coverage or none at all', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D--e' } }
 ];
 
 /**
