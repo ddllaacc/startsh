@@ -184,6 +184,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '06/12/2026', teams: { team1: 'Mountains', team2: 'Beach' }, hotTake: 'Goalkeepers are the most underappreciated players in all of football', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C----er -- --- R--' } },
   { date: '06/13/2026', teams: { team1: 'Ninjas', team2: 'Pirates' }, hotTake: 'Politicians should never be allowed to interfere in sports leadership decisions', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--e D------ve' } },
   { date: '06/14/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Women's sports leagues deserve equal prime-time coverage or none at all', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D--e' } }
+,
+  { date: '06/15/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Summer blockbusters are worse than winter releases', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '06/16/2026', teams: { team1: 'Timothée Chalamet', team2: 'Zendaya' }, hotTake: 'Sports championships mean more than winning an Oscar', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '06/17/2026', teams: { team1: 'Road Trip', team2: 'Flight Vacation' }, hotTake: 'To Kill a Mockingbird should be required reading forever', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M----i----' } },
+  { date: '06/18/2026', teams: { team1: 'Fernando Alonso', team2: 'Lewis Hamilton' }, hotTake: 'Retiring on home soil is more important than one last win', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----- -- I-------t' } },
+  { date: '06/19/2026', teams: { team1: 'Cats vs Dogs', team2: 'Dogs vs Cats' }, hotTake: '1984 predicted the internet and nobody wants to admit it', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-t-----e' } },
+  { date: '06/20/2026', teams: { team1: 'Train Travel', team2: 'Air Travel' }, hotTake: 'Anti-terror laws are used more to silence than to protect', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '06/21/2026', teams: { team1: 'Team Dune', team2: 'Team Barbie' }, hotTake: 'Supernatural should have ended at season 5 and everyone knows it', puzzle: { category: 'TV Show', answer: 'Supernatural', puzzle: 'S---r-a--r-l' } }
 ];
 
 /**
