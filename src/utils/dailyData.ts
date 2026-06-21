@@ -192,6 +192,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '06/19/2026', teams: { team1: 'Cats vs Dogs', team2: 'Dogs vs Cats' }, hotTake: '1984 predicted the internet and nobody wants to admit it', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-t-----e' } },
   { date: '06/20/2026', teams: { team1: 'Train Travel', team2: 'Air Travel' }, hotTake: 'Anti-terror laws are used more to silence than to protect', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
   { date: '06/21/2026', teams: { team1: 'Team Dune', team2: 'Team Barbie' }, hotTake: 'Supernatural should have ended at season 5 and everyone knows it', puzzle: { category: 'TV Show', answer: 'Supernatural', puzzle: 'S---r-a--r-l' } }
+,
+  { date: '06/22/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Villains are always more interesting than heroes', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '06/23/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Sequels are almost always worse than the original', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c------d' } },
+  { date: '06/24/2026', teams: { team1: 'Coffee', team2: 'Energy Drinks' }, hotTake: 'Reality TV has ruined modern entertainment', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '06/25/2026', teams: { team1: 'Pizza for Breakfast', team2: 'Cereal for Dinner' }, hotTake: 'Streaming killed the magic of going to the movies', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '06/26/2026', teams: { team1: 'Text Message', team2: 'Phone Call' }, hotTake: 'Every city should have a four-day work week by now', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-r--- -- I-------t' } },
+  { date: '06/27/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Tattoos make people more attractive, not less', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---n---m-r' } },
+  { date: '06/28/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salty Popcorn' }, hotTake: 'True crime podcasts glorify criminals more than they help victims', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } }
 ];
 
 /**
