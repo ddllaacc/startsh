@@ -200,6 +200,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '06/26/2026', teams: { team1: 'Text Message', team2: 'Phone Call' }, hotTake: 'Every city should have a four-day work week by now', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-r--- -- I-------t' } },
   { date: '06/27/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Tattoos make people more attractive, not less', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---n---m-r' } },
   { date: '06/28/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salty Popcorn' }, hotTake: 'True crime podcasts glorify criminals more than they help victims', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-----t--e' } }
+,
+  { date: '06/29/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'The FIFA World Cup has too many teams now and it ruins the magic', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y -r---f--' } },
+  { date: '06/30/2026', teams: { team1: 'Team Ketchup', team2: 'Team Mustard' }, hotTake: 'WWE storylines are better than most prestige TV dramas', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '07/01/2026', teams: { team1: 'Safari Browser', team2: 'Chrome Browser' }, hotTake: 'African football teams are finally proving Europe has been hoarding talent for decades', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '07/02/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Oppenheimer was overrated and too long', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I------st' } },
+  { date: '07/03/2026', teams: { team1: 'Pineapple on Pizza', team2: 'No Pineapple Ever' }, hotTake: 'True Detective Season 1 is the greatest single season of television ever made', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-----g---d' } },
+  { date: '07/04/2026', teams: { team1: 'Fireworks', team2: 'Backyard BBQ' }, hotTake: 'Superhero movies killed cinema and Spider-Man is the only one worth watching', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r t-- D---' } },
+  { date: '07/05/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Sami Zayn should have been WWE Champion years ago and everyone who doubted him owes an apology', puzzle: { category: 'TV Show', answer: 'Supernatural', puzzle: 'S----r------l' } }
 ];
 
 /**
