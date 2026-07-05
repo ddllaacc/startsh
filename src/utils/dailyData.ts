@@ -208,6 +208,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '07/03/2026', teams: { team1: 'Pineapple on Pizza', team2: 'No Pineapple Ever' }, hotTake: 'True Detective Season 1 is the greatest single season of television ever made', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-----g---d' } },
   { date: '07/04/2026', teams: { team1: 'Fireworks', team2: 'Backyard BBQ' }, hotTake: 'Superhero movies killed cinema and Spider-Man is the only one worth watching', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r t-- D---' } },
   { date: '07/05/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Sami Zayn should have been WWE Champion years ago and everyone who doubted him owes an apology', puzzle: { category: 'TV Show', answer: 'Supernatural', puzzle: 'S----r------l' } }
+,
+  { date: '07/06/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Silent movies were more cinematic than anything made today', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d-ul' } },
+  { date: '07/07/2026', teams: { team1: 'Team Ketchup', team2: 'Team Mustard' }, hotTake: 'Tattoos make you look less professional and that is perfectly fine', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K-ll - M--k---b-rd' } },
+  { date: '07/08/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Supernatural should have ended after season five and everyone knows it', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A---i-- R--e' } },
+  { date: '07/09/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Breakfast is the most overrated meal of the day', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- i- --- R-e' } },
+  { date: '07/10/2026', teams: { team1: 'Coffee', team2: 'Tea' }, hotTake: 'Every reality competition show is rigged from the start', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P---on o- I---r--t' } },
+  { date: '07/11/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Sequels are almost always a cash grab and rarely worth watching', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r t-- D--e' } },
+  { date: '07/12/2026', teams: { team1: 'Summer', team2: 'Winter' }, hotTake: 'Reading a book before watching the movie should be legally required', puzzle: { category: 'Book', answer: '1984', puzzle: '1-8-' } }
 ];
 
 /**
