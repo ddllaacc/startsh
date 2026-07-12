@@ -216,6 +216,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '07/10/2026', teams: { team1: 'Coffee', team2: 'Tea' }, hotTake: 'Every reality competition show is rigged from the start', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P---on o- I---r--t' } },
   { date: '07/11/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Sequels are almost always a cash grab and rarely worth watching', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r t-- D--e' } },
   { date: '07/12/2026', teams: { team1: 'Summer', team2: 'Winter' }, hotTake: 'Reading a book before watching the movie should be legally required', puzzle: { category: 'Book', answer: '1984', puzzle: '1-8-' } }
+,
+  { date: '07/13/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Mondays are actually underrated', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y -r---f-l' } },
+  { date: '07/14/2026', teams: { team1: 'Team Pitbull', team2: 'Team Hair' }, hotTake: 'Breaking world records for silly things is a totally valid life goal', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-ck------d' } },
+  { date: '07/15/2026', teams: { team1: 'Argentina', team2: 'England' }, hotTake: 'Penalty shootouts are a terrible way to decide a football match', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '07/16/2026', teams: { team1: 'Scarlett', team2: 'Ally' }, hotTake: 'Celebrity baby name drama is more entertaining than actual news', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp--h----r' } },
+  { date: '07/17/2026', teams: { team1: 'Team Coaching', team2: 'Team Playing' }, hotTake: 'Sports coaches deserve more credit than the star players', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------ve' } },
+  { date: '07/18/2026', teams: { team1: 'Le Pen Comeback', team2: 'Stay Retired' }, hotTake: 'Politicians should be forced to retire at 65', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '07/19/2026', teams: { team1: 'Legacy', team2: 'Living in the Moment' }, hotTake: 'Worrying about your legacy is just ego in disguise', puzzle: { category: 'TV Show', answer: 'Supernatural', puzzle: 'S---r--t---l' } }
 ];
 
 /**
