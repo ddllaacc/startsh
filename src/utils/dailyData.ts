@@ -224,6 +224,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '07/17/2026', teams: { team1: 'Team Coaching', team2: 'Team Playing' }, hotTake: 'Sports coaches deserve more credit than the star players', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------ve' } },
   { date: '07/18/2026', teams: { team1: 'Le Pen Comeback', team2: 'Stay Retired' }, hotTake: 'Politicians should be forced to retire at 65', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
   { date: '07/19/2026', teams: { team1: 'Legacy', team2: 'Living in the Moment' }, hotTake: 'Worrying about your legacy is just ego in disguise', puzzle: { category: 'TV Show', answer: 'Supernatural', puzzle: 'S---r--t---l' } }
+,
+  { date: '07/20/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Mondays get too much hate — Sundays are actually more stressful', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '07/21/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Tattoos are just expensive mistakes you have to live with forever', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-ck------d' } },
+  { date: '07/22/2026', teams: { team1: 'Text Message', team2: 'Phone Call' }, hotTake: 'Reality TV is more culturally important than prestige dramas', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '07/23/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Breakfast is the most overrated meal of the day', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '07/24/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Social media eulogies say more about the poster than the person who passed', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----n -f I------st' } },
+  { date: '07/25/2026', teams: { team1: 'Summer', team2: 'Winter' }, hotTake: 'Wearing a black armband is performative grief, not genuine respect', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- t-- D---' } },
+  { date: '07/26/2026', teams: { team1: 'Aisle Seat', team2: 'Window Seat' }, hotTake: 'Esports athletes deserve the same recognition as traditional sports stars', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-------e' } }
 ];
 
 /**
