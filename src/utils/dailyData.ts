@@ -232,6 +232,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '07/24/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Social media eulogies say more about the poster than the person who passed', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----n -f I------st' } },
   { date: '07/25/2026', teams: { team1: 'Summer', team2: 'Winter' }, hotTake: 'Wearing a black armband is performative grief, not genuine respect', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- t-- D---' } },
   { date: '07/26/2026', teams: { team1: 'Aisle Seat', team2: 'Window Seat' }, hotTake: 'Esports athletes deserve the same recognition as traditional sports stars', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-------e' } }
+,
+  { date: '07/27/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'The FIFA World Cup has gotten too big and should go back to 32 teams', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '07/28/2026', teams: { team1: 'Team Harry Kane', team2: 'Team Ballon d'Or' }, hotTake: 'Tattoos should be required to have a waiting period like a gun purchase', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c---g---d' } },
+  { date: '07/29/2026', teams: { team1: 'Aisle Seat', team2: 'Window Seat' }, hotTake: 'Supernatural should have ended after season 5 and everyone knows it', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '07/30/2026', teams: { team1: 'Team Barbie', team2: 'Team Oppenheimer' }, hotTake: 'Breakfast is the least important meal of the day and big cereal lied to us', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C---c--- -- --- R--' } },
+  { date: '07/31/2026', teams: { team1: 'Chelsea Seller', team2: 'Chelsea Keeper' }, hotTake: 'WWE storylines are more dramatic than any Netflix original series', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-----s-' } },
+  { date: '08/01/2026', teams: { team1: 'Pool Person', team2: 'Beach Person' }, hotTake: 'The 1930 World Cup was the purest form of football and it's been downhill ever since', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------i--' } },
+  { date: '08/02/2026', teams: { team1: 'Team Dune', team2: 'Team Avatar' }, hotTake: 'Turning heel is always more interesting than staying a fan favorite', puzzle: { category: 'Book', answer: '1984', puzzle: '1--4' } }
 ];
 
 /**
