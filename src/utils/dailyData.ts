@@ -240,6 +240,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '07/31/2026', teams: { team1: 'Chelsea Seller', team2: 'Chelsea Keeper' }, hotTake: 'WWE storylines are more dramatic than any Netflix original series', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I-----s-' } },
   { date: '08/01/2026', teams: { team1: 'Pool Person', team2: 'Beach Person' }, hotTake: 'The 1930 World Cup was the purest form of football and it's been downhill ever since', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------i--' } },
   { date: '08/02/2026', teams: { team1: 'Team Dune', team2: 'Team Avatar' }, hotTake: 'Turning heel is always more interesting than staying a fan favorite', puzzle: { category: 'Book', answer: '1984', puzzle: '1--4' } }
+,
+  { date: '08/03/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Mondays get too much hate — Fridays are overrated', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '08/04/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Tattoos are just expensive regrets you have to live with forever', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c------d' } },
+  { date: '08/05/2026', teams: { team1: 'Texts Only', team2: 'Calls Only' }, hotTake: 'True Detective season one ruined all other TV for everyone', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A--z--- R---' } },
+  { date: '08/06/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Breakfast is the most unnecessary meal of the day', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '08/07/2026', teams: { team1: 'Superheroes', team2: 'Supervillains' }, hotTake: 'Reboots and sequels are killing original storytelling in Hollywood', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I--e---t' } },
+  { date: '08/08/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Living in a big city is glamorized way too much — suburbs win', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- --- D---' } },
+  { date: '08/09/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Social media has made people less funny, not more', puzzle: { category: 'TV Show', answer: 'The Last Ship', puzzle: '--- L--- S---' } }
 ];
 
 /**
