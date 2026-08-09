@@ -248,6 +248,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '08/07/2026', teams: { team1: 'Superheroes', team2: 'Supervillains' }, hotTake: 'Reboots and sequels are killing original storytelling in Hollywood', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I--e---t' } },
   { date: '08/08/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Living in a big city is glamorized way too much — suburbs win', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---- --- D---' } },
   { date: '08/09/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Social media has made people less funny, not more', puzzle: { category: 'TV Show', answer: 'The Last Ship', puzzle: '--- L--- S---' } }
+,
+  { date: '08/10/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Sleeping with socks on is actually peak comfort', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '08/11/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Rewatching shows is a waste of a perfectly good evening', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '08/12/2026', teams: { team1: 'Pancakes', team2: 'Waffles' }, hotTake: 'Every book is better as an audiobook', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-----i-b--d' } },
+  { date: '08/13/2026', teams: { team1: 'Team Villain', team2: 'Team Hero' }, hotTake: 'Lunch is the most underrated meal of the day', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-r--- -- I------s-' } },
+  { date: '08/14/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'The sequel is almost always better than the original', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c---r -- --- R--' } },
+  { date: '08/15/2026', teams: { team1: 'Coffee', team2: 'Tea' }, hotTake: 'True Detective season one ruined all other TV for everyone forever', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D---' } },
+  { date: '08/16/2026', teams: { team1: 'Spicy Food', team2: 'Sweet Food' }, hotTake: 'Oppenheimer was just a really expensive history class', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------i--' } }
 ];
 
 /**
