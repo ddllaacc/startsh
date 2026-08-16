@@ -256,6 +256,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '08/14/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'The sequel is almost always better than the original', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c---r -- --- R--' } },
   { date: '08/15/2026', teams: { team1: 'Coffee', team2: 'Tea' }, hotTake: 'True Detective season one ruined all other TV for everyone forever', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D---' } },
   { date: '08/16/2026', teams: { team1: 'Spicy Food', team2: 'Sweet Food' }, hotTake: 'Oppenheimer was just a really expensive history class', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D------i--' } }
+,
+  { date: '08/17/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Wildfire seasons are the new snow days — we need to start planning life around them', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: '---n- -r---f-l' } },
+  { date: '08/18/2026', teams: { team1: 'Sand Beach', team2: 'Rocky Beach' }, hotTake: 'Scam culture is so advanced now that no one should ever answer an unknown number again', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- -i-- - -o--i--b--d' } },
+  { date: '08/19/2026', teams: { team1: 'Coffee', team2: 'Energy Drink' }, hotTake: 'Public health experts only have themselves to blame for losing people's trust', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- --a---g -a-e' } },
+  { date: '08/20/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'AI reading your brain signals is less scary than AI reading your search history', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp-----i--r' } },
+  { date: '08/21/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Swimming is the most underrated competitive sport on the planet', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: '--r--- -- ---e---t' } },
+  { date: '08/22/2026', teams: { team1: 'Mountains', team2: 'Ocean' }, hotTake: 'Military chaplains are one of the most overlooked yet essential roles in the armed forces', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- -a---e- -- --- -y-' } },
+  { date: '08/23/2026', teams: { team1: 'Team Ketchup', team2: 'Team Mustard' }, hotTake: 'Wildfires spreading across Europe prove we've already lost the climate fight', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: '-r-- --t--t-v-' } }
 ];
 
 /**
