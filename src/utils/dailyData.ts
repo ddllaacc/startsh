@@ -264,6 +264,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '08/21/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Swimming is the most underrated competitive sport on the planet', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: '--r--- -- ---e---t' } },
   { date: '08/22/2026', teams: { team1: 'Mountains', team2: 'Ocean' }, hotTake: 'Military chaplains are one of the most overlooked yet essential roles in the armed forces', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- -a---e- -- --- -y-' } },
   { date: '08/23/2026', teams: { team1: 'Team Ketchup', team2: 'Team Mustard' }, hotTake: 'Wildfires spreading across Europe prove we've already lost the climate fight', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: '-r-- --t--t-v-' } }
+,
+  { date: '08/24/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Supernatural should have ended after season 5', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '08/25/2026', teams: { team1: 'Team Liverpool', team2: 'Team Stay Put' }, hotTake: 'Transfer deadline day is more entertaining than the actual matches', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-ck------d' } },
+  { date: '08/26/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Lost Girl is the most underrated supernatural show ever made', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A-----g R---' } },
+  { date: '08/27/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Oppenheimer was too long and you fell asleep', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '08/28/2026', teams: { team1: 'Team Barbie', team2: 'Team Oppenheimer' }, hotTake: 'WWE celebrity appearances do more good than harm for the product', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----n -- I------st' } },
+  { date: '08/29/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'True Detective season 1 ruined all other TV for you permanently', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D---' } },
+  { date: '08/30/2026', teams: { team1: 'Team Hasan', team2: 'Team xQc' }, hotTake: 'Streaming drama is more entertaining than the actual content being streamed', puzzle: { category: 'Book', answer: '1984', puzzle: '1--4' } }
 ];
 
 /**
