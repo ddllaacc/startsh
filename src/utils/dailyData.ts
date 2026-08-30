@@ -272,6 +272,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '08/28/2026', teams: { team1: 'Team Barbie', team2: 'Team Oppenheimer' }, hotTake: 'WWE celebrity appearances do more good than harm for the product', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----n -- I------st' } },
   { date: '08/29/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'True Detective season 1 ruined all other TV for you permanently', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: 'U---r --- D---' } },
   { date: '08/30/2026', teams: { team1: 'Team Hasan', team2: 'Team xQc' }, hotTake: 'Streaming drama is more entertaining than the actual content being streamed', puzzle: { category: 'Book', answer: '1984', puzzle: '1--4' } }
+,
+  { date: '08/31/2026', teams: { team1: 'Morning Workouts', team2: 'Night Workouts' }, hotTake: 'Labor Day is just an excuse to eat hot dogs and call it patriotism', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: '--d-r --- D---' } },
+  { date: '09/01/2026', teams: { team1: 'Team Kenny Omega', team2: 'Team AEW Villain Era' }, hotTake: 'Pro wrestling storylines are better written than most prestige TV dramas', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P--s-- -f I------s-' } },
+  { date: '09/02/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Retirement should be a choice, not an age — AJ Lee proved that', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K-ll - M----i--b-rd' } },
+  { date: '09/03/2026', teams: { team1: 'Team Bayley', team2: 'Team New Bloodline' }, hotTake: 'Football preseason games are completely pointless and everyone knows it', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---- D------l' } },
+  { date: '09/04/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'The Catcher in the Rye is the most overrated book ever assigned in school', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '09/05/2026', teams: { team1: 'Team Allegri', team2: 'Team Leao' }, hotTake: 'Soccer transfers are just rich clubs playing Monopoly with real people', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D--------e' } },
+  { date: '09/06/2026', teams: { team1: 'Sunrise', team2: 'Sunset' }, hotTake: 'Crop tops should be considered official sports fan gear at this point', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---er' } }
 ];
 
 /**
