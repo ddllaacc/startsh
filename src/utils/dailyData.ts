@@ -280,6 +280,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '09/04/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'The Catcher in the Rye is the most overrated book ever assigned in school', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
   { date: '09/05/2026', teams: { team1: 'Team Allegri', team2: 'Team Leao' }, hotTake: 'Soccer transfers are just rich clubs playing Monopoly with real people', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D--------e' } },
   { date: '09/06/2026', teams: { team1: 'Sunrise', team2: 'Sunset' }, hotTake: 'Crop tops should be considered official sports fan gear at this point', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---er' } }
+,
+  { date: '09/07/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Labor Day sales are just stores getting rid of stuff nobody wanted all summer', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: '---n- -r---f-l' } },
+  { date: '09/08/2026', teams: { team1: 'Team Coffee', team2: 'Team Energy Drink' }, hotTake: 'Tattoos are just expensive regrets you have to explain at job interviews', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c------r-' } },
+  { date: '09/09/2026', teams: { team1: 'Sneakers', team2: 'Sandals' }, hotTake: 'Formula 1 junior programs are getting out of hand when 11-year-olds are signing contracts', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- --a---g R---' } },
+  { date: '09/10/2026', teams: { team1: 'Crunchy Peanut Butter', team2: 'Smooth Peanut Butter' }, hotTake: 'Breakfast is completely optional and society has been lying to you about it', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '09/11/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Sports teams that rebuild every decade don't deserve loyal fans', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'Tr-- --t-ct---' } },
+  { date: '09/12/2026', teams: { team1: 'Team Tacos', team2: 'Team Burritos' }, hotTake: 'Athletes who date celebrities get more press than they deserve for their actual sport', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -f --t-r--t' } },
+  { date: '09/13/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Wrestlers dying young is a systemic problem the industry keeps ignoring', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: '--d-r --- D---' } }
 ];
 
 /**
