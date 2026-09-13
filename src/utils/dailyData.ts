@@ -288,6 +288,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '09/11/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'Sports teams that rebuild every decade don't deserve loyal fans', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'Tr-- --t-ct---' } },
   { date: '09/12/2026', teams: { team1: 'Team Tacos', team2: 'Team Burritos' }, hotTake: 'Athletes who date celebrities get more press than they deserve for their actual sport', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -f --t-r--t' } },
   { date: '09/13/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Wrestlers dying young is a systemic problem the industry keeps ignoring', puzzle: { category: 'TV Show', answer: 'Under the Dome', puzzle: '--d-r --- D---' } }
+,
+  { date: '09/14/2026', teams: { team1: 'Morning Shower', team2: 'Night Shower' }, hotTake: 'Mondays get too much hate — Sundays are actually more stressful', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---- D------' } },
+  { date: '09/15/2026', teams: { team1: 'Pizza for Breakfast', team2: 'Cereal for Dinner' }, hotTake: 'Tattoos are basically just collecting stickers for adults', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M---------d' } },
+  { date: '09/16/2026', teams: { team1: 'Beach Vacation', team2: 'Mountain Vacation' }, hotTake: 'Reality TV has done more for pop culture than prestige drama ever will', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A--z--- R---' } },
+  { date: '09/17/2026', teams: { team1: 'Text Message', team2: 'Phone Call' }, hotTake: 'Superhero movies peaked in 2012 and nothing has come close since', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-----r' } },
+  { date: '09/18/2026', teams: { team1: 'Coffee Loyalist', team2: 'Tea Devotee' }, hotTake: 'Binge-watching a show alone beats watching it with other people every time', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----- -- I-------t' } },
+  { date: '09/19/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salty Popcorn' }, hotTake: 'The Catcher in the Rye is only famous because adults told teenagers not to read it', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C------ -- --- R--' } },
+  { date: '09/20/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Sequels are almost always better than the original — fight me', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-------e' } }
 ];
 
 /**
