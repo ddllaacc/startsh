@@ -296,6 +296,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '09/18/2026', teams: { team1: 'Coffee Loyalist', team2: 'Tea Devotee' }, hotTake: 'Binge-watching a show alone beats watching it with other people every time', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P----- -- I-------t' } },
   { date: '09/19/2026', teams: { team1: 'Sweet Popcorn', team2: 'Salty Popcorn' }, hotTake: 'The Catcher in the Rye is only famous because adults told teenagers not to read it', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C------ -- --- R--' } },
   { date: '09/20/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Sequels are almost always better than the original — fight me', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D-------e' } }
+,
+  { date: '09/21/2026', teams: { team1: 'Early Bird', team2: 'Night Owl' }, hotTake: 'Breakfast is the most overrated meal of the day', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y -r---f--' } },
+  { date: '09/22/2026', teams: { team1: 'Team Coffee', team2: 'Team Tea' }, hotTake: 'Online trolls should face real-world legal consequences', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-c------r-' } },
+  { date: '09/23/2026', teams: { team1: 'Mountains', team2: 'Beach' }, hotTake: 'Tattoos are more addictive than any substance', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: '--- A--z--- R---' } },
+  { date: '09/24/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Fame makes celebrities more cowardly, not braver', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: '-pp--h---er' } },
+  { date: '09/25/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'FOMO is secretly controlling all of your financial decisions', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -f I-t-r--t' } },
+  { date: '09/26/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Crying at a movie in public is a sign of emotional intelligence', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
+  { date: '09/27/2026', teams: { team1: 'Superheroes', team2: 'Villains' }, hotTake: 'Social media fame is more dangerous than being truly famous', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'Tr-- D-t-ct-v-' } }
 ];
 
 /**
