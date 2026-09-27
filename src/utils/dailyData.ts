@@ -304,6 +304,14 @@ export const dailyChallenges: DailyChallenge[] = [
   { date: '09/25/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'FOMO is secretly controlling all of your financial decisions', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -f I-t-r--t' } },
   { date: '09/26/2026', teams: { team1: 'Ketchup', team2: 'Mustard' }, hotTake: 'Crying at a movie in public is a sign of emotional intelligence', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: '--- C--c--- -- --- R--' } },
   { date: '09/27/2026', teams: { team1: 'Superheroes', team2: 'Villains' }, hotTake: 'Social media fame is more dangerous than being truly famous', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'Tr-- D-t-ct-v-' } }
+,
+  { date: '09/28/2026', teams: { team1: 'Morning Showers', team2: 'Night Showers' }, hotTake: 'Skipping the gym once always turns into skipping it forever', puzzle: { category: 'TV Show', answer: 'Penny Dreadful', puzzle: 'P---y D---d---' } },
+  { date: '09/29/2026', teams: { team1: 'Texting', team2: 'Calling' }, hotTake: 'The Oscars are more about politics than actual filmmaking talent', puzzle: { category: 'Book', answer: 'To Kill a Mockingbird', puzzle: '-- K--- - M-ck-------d' } },
+  { date: '09/30/2026', teams: { team1: 'Coffee', team2: 'Energy Drinks' }, hotTake: 'Reality TV has done more damage to society than violent video games ever could', puzzle: { category: 'TV Show', answer: 'The Amazing Race', puzzle: 'T-- Am----g R---' } },
+  { date: '10/01/2026', teams: { team1: 'Halloween', team2: 'Christmas' }, hotTake: 'Streaming services have completely killed the magic of going to the movies', puzzle: { category: 'Movie', answer: 'Oppenheimer', puzzle: 'O---e-h---er' } },
+  { date: '10/02/2026', teams: { team1: 'Team Klopp', team2: 'Team Wirtz' }, hotTake: 'Athletes who switch teams should never be welcomed back as heroes', puzzle: { category: 'TV Show', answer: 'Person of Interest', puzzle: 'P-rs-- -f I-------st' } },
+  { date: '10/03/2026', teams: { team1: 'Cats', team2: 'Dogs' }, hotTake: 'Working from home has made people worse at their jobs, not better', puzzle: { category: 'Book', answer: 'The Catcher in the Rye', puzzle: 'T-- C--ch-- i- t-- R--' } },
+  { date: '10/04/2026', teams: { team1: 'Superheroes', team2: 'Supervillains' }, hotTake: 'Tattoos are just expensive regrets you have to live with forever', puzzle: { category: 'TV Show', answer: 'True Detective', puzzle: 'T--- D--e-t---' } }
 ];
 
 /**
